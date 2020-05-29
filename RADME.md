@@ -52,7 +52,7 @@ Registration Form
 <td>
 <input type="radio" name="sex" />Male
 <input type="radio" name="sex" />FeMale
-  <input type ="radio" name="sex" /transgender
+  <input type ="radio" name="sex" />transgender
 </td>
 </tr>
 <td><input type="checkbox" name="agree" /></td>
